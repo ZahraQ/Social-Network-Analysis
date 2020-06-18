@@ -15,3 +15,13 @@ The Jupyter notebook is organized as below:
 
 The Original Enron Dataset contains a set of folders that organizes a collection of mailboxes by person and folder. Data wrangling is a routine problem, and this section should give you some perspective and some appreciation for it.
 
+Understanding and Simulating Dynamics on the Network using PyCX
+
+The PyCX project aims to develop an online repository of simple, crude, yet easy-to-understand Python sample codes for dynamic complex systems modeling and simulation, including iterative maps, network analysis, dynamical networks, etc.
+
+To use “pycxsimulator.py”, we need to place that file in the directory where the file code is located.
+
+To understand dynamics on networks, we will use the “pycxsimulator.py” file and implement a simple majority rule on the Karate club graph, also the two most used contagion models: SIS (Susceptible- Infected- Susceptible) model and SIS Adaptive model.
+To execute these files, we will use the Spyder IDE.
+
+
