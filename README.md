@@ -3,9 +3,10 @@ Social Network Analysis (SNA) is a core aspect of analyzing social networks toda
 
 [1] Tabassum, Shazia & Pereira, Fabiola & Fernandes, Sofia & Gama, João. (2018). Social network analysis: An overview. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery. 8. e1256. 10.1002/widm.1256.
 
+You can download the Database from the following link: http://www.cs.cmu.edu/~enron/
+
 In the “Social Network Analysis with Python” notebook, we use the Enron Database. This dataset was collected and prepared by the CALO Project (A Cognitive Assistant that Learns and Organizes). It contains data from about 150 users, mostly senior management of Enron, organized into folders. The corpus contains a total of about 0.5M messages. This data was originally made public, and posted to the web, by the Federal Energy Regulatory Commission during its investigation.
 
-You can download the Database from the following link: http://www.cs.cmu.edu/~enron/
 The notebook is organized as below:
 
 1.	Preparing Data
